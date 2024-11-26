@@ -1,11 +1,11 @@
 #README FILE
-Each off the tables is listed with two names: 1. The corresponding number of the table in the paper. 2. Their abreviated descriptive name.
-Each table has its respective .txt file, where the units and additional comments are available.
-All data can be downloaded after the publication of the article.
+Tables are named with a brief descriptive name.
+Each table has its respective .txt file, where the number of the table in the paper, the units and additional comments are available.
+Some values contain non-numeric characters (i.e. '<', '>', 'nan') and tables might not be imported directly to Python/others without previous modification of the .csv file.
 Article available @ ...
 For more information, contact julian.miranzo@cab.inta-csic.es
 
 
 Acknowledgements:
 - Based on observations carried out under project number L19MB with the IRAM NOEMA Interferometer. IRAM is supported by INSU/CNRS (France), MPG (Germany) and IGN (Spain).
-- This project has received funding from the European Re-1326 search Council (ERC) under the European Union’s Horizon Europe research and1327 innovation programme ERC-AdG-2022 (GA No. 101096293).
+- This work is supported by ERC grant SUL4LIFE, GA No. 101096293. Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
