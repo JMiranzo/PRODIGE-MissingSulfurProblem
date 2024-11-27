@@ -1,0 +1,4 @@
+This file contains information about the file: abundances.csv
+The table corresponds to the Table C.4 in the paper.
+Abundances are dimensionless quantities, they have no units. The same happens with their uncertainties.
+For H2S, H233S, OCS, OC33S and OC34S, a value and an uncertainty was given. For SO and SO2, a range of values (denoted by XX_min and XX_max) is given, following the results from ArturDeLaVillarmois et al. (2023).
