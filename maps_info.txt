@@ -1,1 +1,4 @@
-
+This file contains information about the csv: maps.csv
+The table is not available in the paper, but refers to the maps displayed in Figure 2. The magnitudes shown here are the velocity ranges (with respect to the V_LSR) in which the moment-0 maps were integrated (v_min, v_max), and the 1 sigma or noise of the initial cube which was used to define the 3 sigma threshold above which to do the integration (sigma).
+The units of the velocities are km/s; the sigma units are Jy/beam.
+Velocities do not have uncertainties because their values were chosen.
