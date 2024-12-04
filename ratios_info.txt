@@ -1,1 +1,4 @@
-
+This file contains information about the file: abundances.csv
+The table corresponds to the Table C.3 in the paper.
+Ratios are dimensionless quantities, they have no units. The same happens with their uncertainties.
+For all ratios, a superior and inferior limit were given, denoted by e+ and e- respectively.
