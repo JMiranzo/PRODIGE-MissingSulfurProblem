@@ -1,1 +1,4 @@
-
+This file contains information about the csv: columndensities.csv
+The table corresponds to the Table C.3 in the paper. The columns "H2S" and "OCS" in this table correspond to the better estimation of this species. This is, the H2S and OCS column densities calculated from the H233S and OC34S isotopologues when they were detected, or N(H2S) and N(OCS) when they were not detected.
+N(H2S) calculated without the isotopologue was omitted in the table in the cases the better estimation (with the 33S isotopologue) was available.
+The units for the column densities and their uncertainties are cm^-2.
