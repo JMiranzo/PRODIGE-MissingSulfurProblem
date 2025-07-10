@@ -2,6 +2,8 @@
 The following tables contain the results from the work on "PRODIGE - Envelope to Disk with NOEMA: VI. The Missing Sulfur Problem".
 Each table has its respective .txt file, where the number of the table in the paper, the units of each column and additional comments are available.
 Some values contain non-numeric characters (i.e. '<', '>', 'nan') and tables might not be imported directly to Python/others without previous modification of the .csv file.
+In addition, tables with the spectral data used in this work are available in the directory "spectra".
+
 Article available @ ...
 For more information, contact Julián José Miranzo Pastor: julian.miranzo@cab.inta-csic.es
 
